@@ -21,7 +21,8 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: School of Applied Economics <br> Renmin University of China
+  - name: School of Applied Economics
+  - Renmin University of China
     url: http://ae.ruc.edu.cn/
 
 # Social network links
@@ -29,7 +30,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'yihanecon@ruc.edu.cn'
-    label: E-mail Me
 
 education:
   - area: PhD Artificial Intelligence
