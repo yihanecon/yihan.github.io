@@ -29,7 +29,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol  yihanecon@ruc.edu.cn
+  - name: Email: yihanecon@ruc.edu.cn
 
 education:
   - area: PhD Artificial Intelligence
