@@ -114,9 +114,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 Research:
-  - title: Inter-Regional Barriers and Economic Growth： Evidence from China
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530
-    name: Journal of Development Economics 167 (2024)： 103197
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
