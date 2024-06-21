@@ -25,11 +25,10 @@ organizations:
     url: http://ae.ruc.edu.cn/
   - name: Renmin University of China
     url: https://www.ruc.edu.cn/
+  - name: Email：yihanecon@ruc.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-Email:
-  - name: yihanecon@ruc.edu.cn
 
 education:
   - area: PhD Artificial Intelligence
