@@ -21,8 +21,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: School of Applied Economics
-  - name: Renmin University of China
+  - name: School of Applied Economics <br> Renmin University of China
     url: http://ae.ruc.edu.cn/
 
 # Social network links
