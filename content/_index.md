@@ -22,7 +22,7 @@ sections:
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
-  - block: experience
+  - block: experiences
     content:
       username: admin
     design:
