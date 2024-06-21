@@ -41,7 +41,6 @@ education:
     institution: Renmin University of China
     date_start: September 2008
     date_end: June 2012
-
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -107,7 +106,6 @@ languages:
     percent: 75
   - name: Portuguese
     percent: 25
-
 
 # Awards.
 #   Add/remove as many awards below as you like.
