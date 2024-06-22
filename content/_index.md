@@ -34,8 +34,4 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: research
-    content:
-      title: Research
-      username: admin
 ---
