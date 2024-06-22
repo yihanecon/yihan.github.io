@@ -40,14 +40,20 @@ education:
     institution: University of Pittsburgh
     date_start: 2014-09-01
     date_end: 2020-06-31
+    summary: |
+
   - area: Master of Ecomomics
     institution: Renmin University of China
     date_start: 2012-09-01
     date_end: 2014-06-31
+    summary: |
+
   - area: Bachelor of Ecomomics
     institution: Renmin University of China
     date_start: 2008-09-01
     date_end: 2012-06-31
+    summary: |
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -148,5 +154,5 @@ awards:
 ## About Me
 
 I am an associate professor at the [School of Applied Economics at Renmin University of China](http://ae.ruc.edu.cn/).
-My research interests ar Development Economics and Behavioral Economics.
+My research interests are Development Economics and Behavioral Economics.
 Welcome to contact me. My email is yihanecon@ruc.edu.cn.
