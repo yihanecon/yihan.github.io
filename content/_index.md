@@ -38,7 +38,7 @@ sections:
   - block: markdown
     content:
       title: 'Working Paper'
-      subtitle: 'Political Trust, Delegation, and Responsibility-Shifting: Evidence from China's One Child Policy'
+      subtitle: ''
     design:
       columns: '1'
 ---
