@@ -25,6 +25,7 @@ sections:
   - block: experience
     content:
       username: admin
+      title: Teaching
     design:
       # Hugo date format
       date_format: 'January 2006'
