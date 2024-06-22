@@ -49,7 +49,7 @@ education:
     date_start: 2010-01-01
     date_end: 2012-12-31
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Teacher of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
     company_logo: ''
