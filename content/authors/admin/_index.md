@@ -39,7 +39,7 @@ education:
   - area: PhD Ecomomics
     institution: University of Pittsburgh
     date_start: 2014-09-01
-    date_end: 2020-09-31
+    date_end: 2020-11-31
   - area: MEng Ecomomics
     institution: Renmin University of China
     date_start: 2016-01-01
