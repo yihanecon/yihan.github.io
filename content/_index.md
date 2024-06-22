@@ -34,4 +34,9 @@ sections:
     content:
       title: Awards
       username: admin
+  - block: research
+    content:
+      title: Research
+      subtitle: My subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 ---
