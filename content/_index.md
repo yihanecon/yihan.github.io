@@ -35,4 +35,8 @@ sections:
     content:
       title: Research
       username: admin
+  - block: awards
+    content:
+      title: Working Paper
+      username: admin
 ---
