@@ -35,8 +35,10 @@ sections:
     content:
       title: Research
       username: admin
-  - block: awards
+  - block: markdown
     content:
-      title: Working Paper
-      username: admin
+      title: 'Working Paper'
+      subtitle: ''
+    design:
+      columns: '1'
 ---
