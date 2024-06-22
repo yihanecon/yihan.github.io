@@ -36,8 +36,8 @@ profiles:
   - icon: academicons/orcid
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Doctor of Ecomomics
+    institution: University of Pittsburgh
     date_start: 2016-01-01
     date_end: 2020-12-31
   - area: MEng Artificial Intelligence
