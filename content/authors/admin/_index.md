@@ -96,30 +96,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Inter-Regional Barriers and Economic Growth： Evidence from China
+  - title: 1.Inter-Regional Barriers and Economic Growth：Evidence from China
     url: https://www.sciencedirect.com/science/article/abs/pii/S0304387823001530
     date: '2024-03-01'
     awarder: 
     summary: |
-      Journal of Development Economics 167 (2024)： 103197.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Journal of Development Economics 167 (2024): 103197.
+  - title: 2.Confusing Context with Character：Correspondence Bias in Economic Interactions
+    url: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4384
+    date: '2022-03-30'
+    awarder: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Management Science, 69.2 (2023): 1070-1091.
+  - title: 3.Conservation Spillovers：the Effect of Rooftop Solar on Climate Change Beliefs
+    url: https://link.springer.com/article/10.1007/s10640-019-00374-3
+    date: '2019-09-29'
+    awarder: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Environmental and Resource Economics, 74.3(2019): 1425-1451.
+  - title: 4.On the Demand for Natural Gas in Urban China
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0301421514001797
+    date: '2014-07-30'
+    awarder: 
+    summary: |
+      Energy Policy, 70(2014): 57-63. 
 ---
 ## About Me
 
