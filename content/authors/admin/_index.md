@@ -120,9 +120,6 @@ awards:
     awarder: 
     summary: |
       Energy Policy, 70(2014): 57-63. 
-
-markdown:
-  -title: Political Trust, Delegation, and Responsibility-Shifting： Evidence from China's One Child Policy
 ---
 ## About Me
 

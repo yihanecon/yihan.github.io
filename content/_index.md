@@ -39,6 +39,10 @@ sections:
     content:
       title: 'Working Paper'
       subtitle: ''
+      text: |-
+      **Political Trust, Delegation, and Responsibility-Shifting: Evidence from China's One Child Policy**
+      
+      **with Yiming Liu**
     design:
       columns: '1'
 ---
