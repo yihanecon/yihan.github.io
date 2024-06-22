@@ -36,16 +36,16 @@ profiles:
   - icon: academicons/orcid
 
 education:
-  - area: Doctor of Ecomomics
+  - area: PhD Ecomomics
     institution: University of Pittsburgh
     date_start: 2016-01-01
     date_end: 2020-12-31
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MEng Ecomomics
+    institution: Renmin University of China
     date_start: 2016-01-01
     date_end: 2020-12-31
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Ecomomics
+    institution: Renmin University of China
     date_start: 2016-01-01
     date_end: 2020-12-31
 work:
