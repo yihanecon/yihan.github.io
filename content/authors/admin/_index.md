@@ -20,16 +20,20 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: School of Applied Economics of Renmin University of China
-    url: http://ae.ruc.edu.cn/
-  - name: Email：yihanecon@ruc.edu.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    label: E-mail Me
+  - icon: brands/x
+  - icon: brands/instagram
+  - icon: brands/github
+  - icon: brands/linkedin
+  - icon: academicons/google-scholar
+  - icon: academicons/orcid
 
 education:
   - area: PhD Artificial Intelligence
@@ -160,3 +164,10 @@ awards:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
+## About Me
+
+I am an associate professor at the [School of Applied Economics at Renmin University of China](http://ae.ruc.edu.cn/).
+
+My research interests ar Development Economics and Behavioral Economics.
+
+Welcome to contact me. My email is yihanecon@ruc.edu.cn.
